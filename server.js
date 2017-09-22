@@ -1,21 +1,12 @@
 let display = (port)=>{
 	console.log("Server started @",port);
-	sdfsdfsd
-	sdf
-	sd
-	fsd
-	f
+	aaaaaaaaaaaaaaaaaaaaaa
 }
 
 let flash = function (argument) {
 	console.log("argument",argument);
-	sdfdsf
-	sdf
-	s
-	dfsd
-	f
-	sdf
+	bbbbbbbbbbbbbbbbbbbbbbbbbb
 	function test(){
-		
+
 	}
 }
