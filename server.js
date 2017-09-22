@@ -3,5 +3,8 @@ let display = (port)=>{
 }
 
 let flash = function (argument) {
-	console.log("argument",argument)
+	console.log("argument",argument);
+	function test(){
+		
+	}
 }
